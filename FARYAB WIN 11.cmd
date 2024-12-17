@@ -5,22 +5,6 @@
 
 
 
-::  For command line switches, check mass grave[.]dev/command_line_switches
-::  If you want to better understand script, read from MAS separate files version. 
-
-
-
-::============================================================================
-::
-::   
-::
-::============================================================================
-
-
-
-::========================================================================================================================================
-
-::  Set environment variables, it helps if they are misconfigured in the system
 
 setlocal EnableExtensions
 setlocal DisableDelayedExpansion
